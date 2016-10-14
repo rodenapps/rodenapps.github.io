@@ -2,34 +2,76 @@
 layout: page
 ---
 
-## English
+<style type="text/css">
+.icon {
+	-webkit-border-radius: 10px;
+  border: 0px;
+}
+.label {
+  text-align: center;
+  font-size: 10pt;
+}
+.icontable {
+  border: 0px;
+  float: left;
+}
+.icontable td {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.contents {
+	background-image: url(whitebg.png); 
+	padding: 20px; 
+	min-height:100%;
+}
+</style>
 
-Version 1.4.7 was submitted to the App Store and is waiting for Apple's review:
+### Need help?
 
-```
-This version fixes two bugs from last update:
-- Prevents iPad screen from auto-locking
-- Imports .rdm files copied from other apps
-```
+- [Take me to the **English** page]({{site.baseurl}}/en/index.html)
 
-Meanwhile, you can configure your iPad's auto-lock timer. For that effect, open the Settings app, choose "Display & Brightness", then "Auto-Lock". Choose a high value, such as "15 Minutes" or "Never".
+### Precisa de ajuda?
 
-- [How to restore a backup on Chords&Tabs/Lyrics+](backup-cifra-en)
-- [How to deal with problems on Chords&Tabs/Lyrics+](troubleshooting-cifra-en)
-- [Strange symbols appear when importing a song](symbols-en)
+- [Me leve para a página em **português**]({{site.baseurl}}/pt/index.html)
 
-## Português
+### Apps
 
-A versão 1.4.7 foi submetida para a App Store e está aguardando a avaliação da Apple:
+<table class="icontable">
+<tr><td><a href="http://itunes.apple.com/app/cifra/id419424673?mt=8&at=11laGg&ct=page"><img class="icon" src="{{site.baseurl}}/images/cifra57.png" /></a></td></tr>
+<tr><td class="label">Chords &amp;<br/>Tabs</td></tr>
+</table>
 
-```
-Essa versão corrige dois bugs da última atualização:
-- Impede bloqueio automático da tela do iPad
-- Importa arquivos .rdm copiados de outros apps
-```
+<table class="icontable">
+<tr><td><a href="http://itunes.apple.com/app/letra/id419425457?mt=8&at=11laGg&ct=page"><img class="icon" src="{{site.baseurl}}/images/letra57.png" /></a></td></tr>
+<tr><td class="label">Lyrics+</td></tr>
+</table>
 
-Até lá, você pode aumentar o tempo de bloqueio automático de seu iPad. Para isso, abra o aplicativo Ajustes, escolha "Tela e Brilho" e então "Bloqueio Automático". Escolha um valor alto, como "15 minutos", ou "Nunca".
+<table class="icontable">
+<tr><td><a href="http://itunes.apple.com/app/dicionario-portatil/id364878494?mt=8&at=11laGg&ct=page"><img class="icon" src="{{site.baseurl}}/images/dicionario57.png" /></a></td></tr>
+<tr><td class="label">Dicionário<br/>Portátil</td></tr>
+</table>
 
-- [Como restaurar um backup no Cifra+/Letra+](backup-cifra-br)
-- [Como lidar com problemas no Cifra+/Letra+](troubleshooting-cifra-br)
-- [Símbolos estranhos aparecem ao importar música](symbols-br)
+<table class="icontable">
+<tr><td><a href="http://itunes.apple.com/app/sopa-de-letrinhas/id345208246?mt=8&at=11laGg&ct=page"><img class="icon" src="{{site.baseurl}}/images/sopa57.png" /></a></td></tr>
+<tr><td class="label">Sopa de<br/>Letrinhas</td></tr>
+</table>
+
+<table class="icontable">
+<tr><td><a href="http://itunes.apple.com/app/abc-alphabet-soup/id351030494?mt=8&at=11laGg&ct=page"><img class="icon" src="{{site.baseurl}}/images/sopa57.png" /></a></td></tr>
+<tr><td class="label">Alphabet<br/>Soup</td></tr>
+</table>
+
+<table class="icontable">
+<tr><td><a href="http://itunes.apple.com/app/letras-revueltas-spanish-anagrams/id421138237?mt=8&at=11laGg&ct=page"><img class="icon" src="{{site.baseurl}}/images/revueltas57.png" /></a></td></tr>
+<tr><td class="label">Letras<br/>Revueltas</td></tr>
+</table>
+    
+<table class="icontable">
+<tr><td><a href="http://itunes.apple.com/app/zuppa-di-lettere/id366717076?mt=8&at=11laGg&ct=page"><img class="icon" src="{{site.baseurl}}/images/zuppa57.png" /></a></td></tr>
+<tr><td class="label">Zuppa di<br/>Lettere</td></tr>
+</table>
+
+<table class="icontable">
+<tr><td><a href="http://itunes.apple.com/app/id376749720?mt=8&at=11laGg&ct=page"><img class="icon" src="{{site.baseurl}}/images/soupe57.png" /></a></td></tr>
+<tr><td class="label">Soupe à<br/>l'Alphabet</td></tr>
+</table>

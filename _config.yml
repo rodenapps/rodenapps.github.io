@@ -9,11 +9,9 @@
 title: RoDen Apps
 email: rodenapps@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Apps for iOS
+  Apps for iOS, since 2009
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rodenapps.github.io" # the base hostname & protocol for your site
-twitter_username: rodenapps
-github_username:  rodenapps
 
 # Build settings
 markdown: kramdown
