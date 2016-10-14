@@ -32,7 +32,7 @@ layout: page
 
 ### Precisa de ajuda?
 
-- [Me leve para a página em **português**]({{site.baseurl}}/pt/index.html)
+- [Leve-me para a página em **português**]({{site.baseurl}}/pt/index.html)
 
 ### Apps
 
