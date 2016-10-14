@@ -12,6 +12,8 @@ This version fixes two bugs from last update:
 - Imports .rdm files copied from other apps
 ```
 
+Meanwhile, you can configure your iPad's auto-lock timer. For that effect, open the Settings app, choose "Display & Brightness", then "Auto-Lock". Choose a high value, such as "15 Minutes" or "Never".
+
 - [How to restore a backup on Chords&Tabs/Lyrics+](backup-cifra-en)
 - [How to deal with problems on Chords&Tabs/Lyrics+](troubleshooting-cifra-en)
 - [Strange symbols appear when importing a song](symbols-en)
@@ -25,6 +27,8 @@ Essa versão corrige dois bugs da última atualização:
 - Impede bloqueio automático da tela do iPad
 - Importa arquivos .rdm copiados de outros apps
 ```
+
+Até lá, você pode aumentar o tempo de bloqueio automático de seu iPad. Para isso, abra o aplicativo Ajustes, escolha "Tela e Brilho" e então "Bloqueio Automático". Escolha um valor alto, como "15 minutos", ou "Nunca".
 
 - [Como restaurar um backup no Cifra+/Letra+](backup-cifra-br)
 - [Como lidar com problemas no Cifra+/Letra+](troubleshooting-cifra-br)
