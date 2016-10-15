@@ -4,15 +4,20 @@ layout: page
 
 ## Novidades
 
-A versão 1.4.7 do Cifra+ e do Letra+ foi submetida para a App Store e está aguardando a avaliação da Apple. Novidades:
+### Cifra+ e Letra+: versão 1.4.7 disponível
 
-```
-Essa versão corrige dois bugs da última atualização:
+Já está disponível na App Store a versão 1.4.7 dos apps Cifra+ e Letra+. Essa atualização corrige problemas introduzidos na versão anterior. O que há de novo:
+
 - Impede bloqueio automático da tela do iPad
 - Importa arquivos .rdm copiados de outros apps
-```
 
-Enquanto a versão não é publicada, você pode aumentar o tempo de bloqueio automático de seu iPad. Para isso, abra o aplicativo Ajustes, escolha "Tela e Brilho" e então "Bloqueio Automático". Escolha um valor alto, como "15 minutos", ou "Nunca".
+Você pode baixar a atualização na App Store:
+
+Cifra+:
+http://itunes.apple.com/app/cifra/id419424673?mt=8&at=11laGg&ct=page
+
+Letra+:
+http://itunes.apple.com/app/letra/id419425457?mt=8&at=11laGg&ct=page
 
 ## Resolução de Problemas
 

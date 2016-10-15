@@ -2,17 +2,20 @@
 layout: page
 ---
 
-## What's New
+### Chords&Tabs e Lyrics+: version 1.4.7 available
 
-Version 1.4.7 of Chords&Tabs and Lyrics+ was submitted to the App Store and is waiting for Apple's review. What's new:
+The version 1.4.7 of Chords&Tabs e Lyrics+ is available on the App Store. This update fixes problems with version 1.4.6. What's new:
 
-```
-This version fixes two bugs from last update:
 - Prevents iPad screen from auto-locking
 - Imports .rdm files copied from other apps
-```
 
-Meanwhile, you can configure your iPad's auto-lock timer. For that effect, open the Settings app, choose "Display & Brightness", then "Auto-Lock". Choose a high value, such as "15 Minutes" or "Never".
+You can download the update on the App Store:
+
+Chords&Tabs:
+http://itunes.apple.com/app/cifra/id419424673?mt=8&at=11laGg&ct=page
+
+Lyrics+:
+http://itunes.apple.com/app/letra/id419425457?mt=8&at=11laGg&ct=page
 
 ## Troubleshooting
 
