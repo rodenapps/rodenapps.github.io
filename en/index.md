@@ -2,6 +2,8 @@
 layout: page
 ---
 
+## What's New
+
 ### Chords&Tabs e Lyrics+: version 1.4.7 available
 
 The version 1.4.7 of Chords&Tabs e Lyrics+ is available on the App Store. This update fixes problems with version 1.4.6. What's new:
