@@ -8,3 +8,4 @@ Material sobre os aplicativos [Cifra+](http://itunes.apple.com/app/cifra/id41942
 - [Como restaurar um backup no Cifra+/Letra+](backup-cifra-br)
 - [Como lidar com problemas no Cifra+/Letra+](troubleshooting-cifra-br)
 - [Símbolos estranhos aparecem ao importar música](symbols-br)
+- [Formato de arquivo para importação](file-format-br)
