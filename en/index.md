@@ -10,3 +10,4 @@ Lyrics+](http://itunes.apple.com/app/letra/id419425457?mt=8&at=11laGg&ct=page):
 - [How to deal with problems on Chords&Tabs/Lyrics+](troubleshooting-cifra-en)
 - [Strange symbols appear when importing a song](symbols-en)
 - [File format for importing songs](file-format-en)
+- [Privacy policy](privacy)
