@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Atenção: na versão 4.1.11, a edição de músicas não funciona bem quando o Modo Escuro está ativo. Para contornar o problema, [desative o Modo Escuro](https://support.apple.com/pt-br/HT210332). A versão 4.1.12 será disponibilizada em breve com uma correção definitiva.
+Atenção: na versão 1.4.11, a edição de músicas não funciona bem quando o Modo Escuro está ativo. Para contornar o problema, [desative o Modo Escuro](https://support.apple.com/pt-br/HT210332). A versão 1.4.12 será disponibilizada em breve com uma correção definitiva.
 
 Material sobre os aplicativos [Cifra+](http://itunes.apple.com/app/cifra/id419424673?mt=8&at=11laGg&ct=page) e [Letra+](http://itunes.apple.com/app/letra/id419425457?mt=8&at=11laGg&ct=page):
 
