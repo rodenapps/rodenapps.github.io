@@ -8,6 +8,8 @@ Para importar uma letra ou cifra no aplicativo, ela precisa ser salva como um ar
 - A primeira linha do arquivo está na forma `NOME DO ARTISTA - TÍTULO DA MÚSICA`
 - A primeira linha contém o `TÍTULO DA MÚSICA` e a segunda linha contém o `NOME DO ARTISTA`
 
+Se você estiver exportando para texto simples a partir de um documento do Word (`.docx`), escolha a opção de usar CR/LF como separador de linha.
+
 **Exemplos válidos**:
 
 ```

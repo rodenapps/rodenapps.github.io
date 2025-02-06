@@ -8,6 +8,8 @@ To import a song's lyrics into the app, it has to be saved as a **plain text fil
 - The first line of the file is in the form `ARTIST NAME - SONG TITLE`
 - The first line contains the `SONG TITLE` and the second line contains the `ARTIST NAME`
 
+If you are exporting to plain text from a Word document (`.docx`), be sure to choose the option to end lines with carriage return and line feed (CR/LF).
+
 **Valid examples**:
 
 ```
